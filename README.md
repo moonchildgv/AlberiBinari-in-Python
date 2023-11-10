@@ -4,7 +4,7 @@
 
 Un **albero binario** è un albero i cui nodi hanno grado compreso tra 0 e 2. Per *albero* si intende un grafo non diretto, connesso e aciclico mentre per *grado* di un nodo si intende il numero di sotto alberi del nodo, che è uguale al numero di figli del nodo.
 
-
+![alberobinario](https://github.com/moonchildgv/AlberiBinari-in-Python/assets/34889283/e306e2a6-fd11-4b39-8e64-301c191c9d39)
 
 #### Nozioni di base:
 
