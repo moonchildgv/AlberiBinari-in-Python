@@ -27,21 +27,21 @@ Esistono alcune formule per calcolare le caratteristiche degli alberi:
    $$
 
 2. Numero massimo di nodi in un albero binario di altezza h
-   
+
    $$
-   2^{h+1}-1
+      2^{h+1}-1
    $$
 
-3. Altezza o numero minimo di nodi di un albero con altezza h
+4. Altezza o numero minimo di nodi di un albero con altezza h
    
    $$
-   h
+      h
    $$
 
-4. Numero massimo di nodi ad un livello l (elle)
+5. Numero massimo di nodi ad un livello l (elle)
    
    $$
-   2^l
+      2^l
    $$
 
 
