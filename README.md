@@ -21,21 +21,25 @@ dell'albero, in termini di numero di archi attraversati.
 Esistono alcune formule per calcolare le caratteristiche degli alberi:
 
 1. Altezza di un albero binario bilanciato pieno di n nodi
+
    $$
    log(n+1)-1
    $$
 
 2. Numero massimo di nodi in un albero binario di altezza h
+
    $$
    2^{h+1}-1
    $$
 
-4. Altezza o numero minimo di nodi di un albero con altezza h
+3. Altezza o numero minimo di nodi di un albero con altezza h
+
    $$
    h
    $$
 
-5. Numero massimo di nodi ad un livello l (elle)
+4. Numero massimo di nodi ad un livello l (elle)
+
    $$
    2^l
    $$
