@@ -18,14 +18,12 @@ data dalla massima profondità raggiunta dalle sue foglie. Quindi,
 l'altezza misura la massima distanza di una foglia dalla radice 
 dell'albero, in termini di numero di archi attraversati.
 
-Esistono alcune formule per calcolare le caratteristiche degli alberi:
+Esistono alcune formule per calcolare le caratteristiche degli alberi, per esempio:
 
 1. Altezza di un albero binario bilanciato pieno di n nodi
 
-   $$
-   
+   $$   
    log(n+1)-1
-
    $$
 
 
